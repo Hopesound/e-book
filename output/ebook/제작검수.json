@@ -334,9 +334,9 @@
     }
   ],
   "outputs": {
-    "조선토지조사사업보고서추록_일한대역.html": 25198829,
-    "조선토지조사사업보고서추록_일한대역.epub": 33815217,
-    "조선토지조사사업보고서추록_일한대역.pdf": 23775258
+    "조선토지조사사업보고서추록_일한대역.html": 33603308,
+    "조선토지조사사업보고서추록_일한대역.pdf": 23788431,
+    "조선토지조사사업보고서추록_일한대역_EPUB_암호보호.zip": 33824767
   },
   "browser_validation": {
     "html_units": 54,
@@ -348,5 +348,37 @@
     "overflow": []
   },
   "pdf_toc_links": 81,
-  "rendered_pdf_pages": 58
+  "rendered_pdf_pages": 58,
+  "access_protection": {
+    "protected": true,
+    "html": "AES-256-GCM / PBKDF2-SHA256",
+    "pdf": "AES-256",
+    "epub_container": "WinZip AES-256 ZIP",
+    "password_stored": false,
+    "updated": "2026-09-30",
+    "html_password_on_every_open": true,
+    "wrong_password_rejected": [
+      "HTML",
+      "PDF",
+      "ZIP"
+    ],
+    "correct_password_verified": [
+      "HTML",
+      "PDF",
+      "ZIP"
+    ],
+    "pdf_text_and_links_preserved": true,
+    "browser": {
+      "locked_by_default": true,
+      "wrong_password_rejected": true,
+      "correct_password_opens": true,
+      "units": 54,
+      "appendix_navigation": true,
+      "lock_button": true,
+      "reload_locks": true,
+      "reading_position_preserved": true,
+      "errors": []
+    },
+    "pdf_render_visually_checked": true
+  }
 }

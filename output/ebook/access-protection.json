@@ -1,0 +1,9 @@
+{
+  "protected": true,
+  "html": "AES-256-GCM / PBKDF2-SHA256",
+  "pdf": "AES-256",
+  "epub_container": "WinZip AES-256 ZIP",
+  "password_stored": false,
+  "updated": "2026-09-30",
+  "html_password_on_every_open": true
+}

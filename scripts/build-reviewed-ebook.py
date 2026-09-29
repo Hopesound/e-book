@@ -1,5 +1,5 @@
 from pathlib import Path
-import json,re,html,base64,zipfile,uuid,shutil,hashlib
+import json,re,html,base64,zipfile,uuid,shutil,hashlib,os,sys,subprocess
 from PIL import Image
 from reportlab.pdfgen import canvas
 from reportlab.pdfbase import pdfmetrics
@@ -13,6 +13,9 @@ import xml.etree.ElementTree as ET
 ROOT=Path(__file__).resolve().parents[1]
 OUT=ROOT/'output/ebook';PDFOUT=ROOT/'output/pdf';REVIEW=ROOT/'tmp/ebook-review-v2'
 NAME='조선토지조사사업보고서추록_일한대역'
+protect_output=(OUT/'access-protection.json').exists()
+if protect_output and not os.environ.get('EBOOK_PASSWORD'):
+    raise RuntimeError('암호 보호판입니다. EBOOK_PASSWORD를 지정해야 새로 생성할 수 있습니다.')
 for d in (OUT,PDFOUT,OUT/'assets',REVIEW):d.mkdir(parents=True,exist_ok=True)
 backup=ROOT/'tmp/ebook-version-1'
 if not backup.exists():
@@ -214,3 +217,7 @@ checks=dict(version=2,printed_pages=27,translation_spreads=27,appendix_spreads=2
 (OUT/'제작검수.json').write_text(json.dumps(checks,ensure_ascii=False,indent=2),encoding='utf8')
 print(json.dumps({k:v for k,v in checks.items() if k!='pdf_layout'},ensure_ascii=False,indent=2))
 
+
+# Preserve access protection when regenerating this edition.
+if protect_output:
+    subprocess.run([sys.executable,str(ROOT/'scripts/protect-reviewed-ebook.py')],check=True)
