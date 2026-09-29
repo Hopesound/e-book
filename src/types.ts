@@ -1,10 +1,17 @@
-export interface Chapter { title: string; paragraphs: string[] }
-export interface Bookmark { page: number; label: string; createdAt: number }
+export interface Chapter {
+  title: string;
+  paragraphs: string[];
+}
+export interface Bookmark {
+  page: number;
+  label: string;
+  createdAt: number;
+}
 export interface Book {
   id: string;
   title: string;
   author: string;
-  format: 'EPUB' | 'TXT';
+  format: "EPUB" | "TXT";
   chapters: Chapter[];
   cover?: string;
   color: number;
@@ -15,6 +22,14 @@ export interface Book {
   completed: boolean;
   bookmarks: Bookmark[];
 }
-export interface Page { chapter: number; title: string; paragraphs: string[] }
-export interface Preferences { theme: 'light' | 'sepia' | 'dark'; fontSize: number; font: 'serif' | 'sans' }
-export type Shelf = 'all' | 'reading' | 'bookmarks' | 'finished';
+export interface Page {
+  chapter: number;
+  title: string;
+  paragraphs: string[];
+}
+export interface Preferences {
+  theme: "light" | "sepia" | "dark";
+  fontSize: number;
+  font: "serif" | "sans";
+}
+export type Shelf = "all" | "reading" | "bookmarks" | "finished";
