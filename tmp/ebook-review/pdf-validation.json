@@ -1,0 +1,105 @@
+{
+  "pages": 24,
+  "layout": [
+    {
+      "id": "p1",
+      "bottom_y": 296.2,
+      "font": 13
+    },
+    {
+      "id": "p2",
+      "bottom_y": 359.4,
+      "font": 13
+    },
+    {
+      "id": "p3",
+      "bottom_y": 401.5,
+      "font": 13
+    },
+    {
+      "id": "p4",
+      "bottom_y": 380.5,
+      "font": 13
+    },
+    {
+      "id": "p5",
+      "bottom_y": 380.5,
+      "font": 13
+    },
+    {
+      "id": "p6",
+      "bottom_y": 338.3,
+      "font": 13
+    },
+    {
+      "id": "p7",
+      "bottom_y": 401.5,
+      "font": 13
+    },
+    {
+      "id": "p8",
+      "bottom_y": 380.5,
+      "font": 13
+    },
+    {
+      "id": "p9",
+      "bottom_y": 338.3,
+      "font": 13
+    },
+    {
+      "id": "p10",
+      "bottom_y": 359.4,
+      "font": 13
+    },
+    {
+      "id": "s11",
+      "bottom_y": 52.7,
+      "font": 11
+    },
+    {
+      "id": "s12",
+      "bottom_y": 112.8,
+      "font": 13
+    },
+    {
+      "id": "s13",
+      "bottom_y": 70.5,
+      "font": 12.5
+    },
+    {
+      "id": "s14",
+      "bottom_y": 136.9,
+      "font": 13
+    },
+    {
+      "id": "s15",
+      "bottom_y": 127.9,
+      "font": 13
+    },
+    {
+      "id": "s16",
+      "bottom_y": 450.6,
+      "font": 13
+    },
+    {
+      "id": "s17",
+      "bottom_y": 297.2,
+      "font": 13
+    },
+    {
+      "id": "s18",
+      "bottom_y": 339.3,
+      "font": 13
+    },
+    {
+      "id": "s19",
+      "bottom_y": 318.3,
+      "font": 13
+    },
+    {
+      "id": "s20",
+      "bottom_y": 390.5,
+      "font": 13
+    }
+  ]
+}

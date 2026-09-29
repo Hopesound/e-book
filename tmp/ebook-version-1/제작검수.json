@@ -1,0 +1,140 @@
+{
+  "pdf_pages": 24,
+  "parallel_units": 20,
+  "pending_translation_scans": [
+    16,
+    20
+  ],
+  "scan_mapping": [
+    {
+      "id": "p1",
+      "label": "인쇄면 1쪽",
+      "scan": 7,
+      "source": "10PAGE.txt"
+    },
+    {
+      "id": "p2",
+      "label": "인쇄면 2쪽",
+      "scan": 8,
+      "source": "10PAGE.txt"
+    },
+    {
+      "id": "p3",
+      "label": "인쇄면 3쪽",
+      "scan": 8,
+      "source": "10PAGE.txt"
+    },
+    {
+      "id": "p4",
+      "label": "인쇄면 4쪽",
+      "scan": 9,
+      "source": "10PAGE.txt"
+    },
+    {
+      "id": "p5",
+      "label": "인쇄면 5쪽",
+      "scan": 9,
+      "source": "10PAGE.txt"
+    },
+    {
+      "id": "p6",
+      "label": "인쇄면 6쪽",
+      "scan": 10,
+      "source": "10PAGE.txt"
+    },
+    {
+      "id": "p7",
+      "label": "인쇄면 7쪽",
+      "scan": 10,
+      "source": "10PAGE.txt"
+    },
+    {
+      "id": "p8",
+      "label": "인쇄면 8쪽",
+      "scan": 11,
+      "source": "10PAGE.txt"
+    },
+    {
+      "id": "p9",
+      "label": "인쇄면 9쪽",
+      "scan": 11,
+      "source": "10PAGE.txt"
+    },
+    {
+      "id": "p10",
+      "label": "인쇄면 10쪽",
+      "scan": 12,
+      "source": "10PAGE.txt"
+    },
+    {
+      "id": "s11",
+      "label": "NDL 11면 · 인쇄면 8~9쪽",
+      "scan": 11,
+      "source": "20PAGE.txt"
+    },
+    {
+      "id": "s12",
+      "label": "NDL 12면 · 인쇄면 10~11쪽",
+      "scan": 12,
+      "source": "20PAGE.txt"
+    },
+    {
+      "id": "s13",
+      "label": "NDL 13면 · 인쇄면 12~13쪽",
+      "scan": 13,
+      "source": "20PAGE.txt"
+    },
+    {
+      "id": "s14",
+      "label": "NDL 14면 · 인쇄면 14~15쪽",
+      "scan": 14,
+      "source": "20PAGE.txt"
+    },
+    {
+      "id": "s15",
+      "label": "NDL 15면 · 인쇄면 16~17쪽",
+      "scan": 15,
+      "source": "20PAGE.txt"
+    },
+    {
+      "id": "s16",
+      "label": "NDL 16면 · 인쇄면 18~19쪽",
+      "scan": 16,
+      "source": "20PAGE.txt"
+    },
+    {
+      "id": "s17",
+      "label": "NDL 17면 · 인쇄면 20~21쪽",
+      "scan": 17,
+      "source": "20PAGE.txt"
+    },
+    {
+      "id": "s18",
+      "label": "NDL 18면 · 인쇄면 22~23쪽",
+      "scan": 18,
+      "source": "20PAGE.txt"
+    },
+    {
+      "id": "s19",
+      "label": "NDL 19면 · 인쇄면 24~25쪽",
+      "scan": 19,
+      "source": "20PAGE.txt"
+    },
+    {
+      "id": "s20",
+      "label": "NDL 20면 · 인쇄면 26~27쪽",
+      "scan": 20,
+      "source": "20PAGE.txt"
+    }
+  ],
+  "source_hashes": {
+    "10PAGE.txt": "b2b6e2625a85e63fe3bf609e5ba205cdbbe554be360194d61592916087d65ea3",
+    "20PAGE.txt": "5062d1ca223e9bdf7d51b486dd1b805ad6447df2abc6c1e510942d98bad75114"
+  },
+  "outputs": {
+    "조선토지조사사업보고서추록_일한대역.pdf": 13804187,
+    "조선토지조사사업보고서추록_일한대역.epub": 18301601,
+    "조선토지조사사업보고서추록_일한대역.html": 14539466
+  },
+  "min_pdf_text_bottom": 52.7
+}

@@ -1,0 +1,352 @@
+{
+  "version": 2,
+  "printed_pages": 27,
+  "translation_spreads": 27,
+  "appendix_spreads": 27,
+  "pdf_pages": 58,
+  "epub_spine_pages": 58,
+  "font_missing_characters": [],
+  "pdf_text_verified": true,
+  "pdf_layout": [
+    {
+      "id": "p1",
+      "pdf_page": 4,
+      "font": 14,
+      "bottom": 264.5
+    },
+    {
+      "id": "p2",
+      "pdf_page": 5,
+      "font": 14,
+      "bottom": 148.1
+    },
+    {
+      "id": "p3",
+      "pdf_page": 6,
+      "font": 14,
+      "bottom": 187.2
+    },
+    {
+      "id": "p4",
+      "pdf_page": 7,
+      "font": 14,
+      "bottom": 86.8
+    },
+    {
+      "id": "p5",
+      "pdf_page": 8,
+      "font": 14,
+      "bottom": 93.9
+    },
+    {
+      "id": "p6",
+      "pdf_page": 9,
+      "font": 14,
+      "bottom": 70.8
+    },
+    {
+      "id": "p7",
+      "pdf_page": 10,
+      "font": 14,
+      "bottom": 254.7
+    },
+    {
+      "id": "p8",
+      "pdf_page": 11,
+      "font": 14,
+      "bottom": 263.6
+    },
+    {
+      "id": "p9",
+      "pdf_page": 12,
+      "font": 13.5,
+      "bottom": 116.7
+    },
+    {
+      "id": "p10",
+      "pdf_page": 13,
+      "font": 14,
+      "bottom": 155.2
+    },
+    {
+      "id": "p11",
+      "pdf_page": 14,
+      "font": 14,
+      "bottom": 124.1
+    },
+    {
+      "id": "p12",
+      "pdf_page": 15,
+      "font": 14,
+      "bottom": 117.0
+    },
+    {
+      "id": "p13",
+      "pdf_page": 16,
+      "font": 13.5,
+      "bottom": 125.5
+    },
+    {
+      "id": "p14",
+      "pdf_page": 17,
+      "font": 14,
+      "bottom": 147.2
+    },
+    {
+      "id": "p15",
+      "pdf_page": 18,
+      "font": 13.5,
+      "bottom": 87.2
+    },
+    {
+      "id": "p16",
+      "pdf_page": 19,
+      "font": 14,
+      "bottom": 197.2
+    },
+    {
+      "id": "p17",
+      "pdf_page": 20,
+      "font": 14,
+      "bottom": 140.1
+    },
+    {
+      "id": "p18",
+      "pdf_page": 21,
+      "font": 13.5,
+      "bottom": 82.7
+    },
+    {
+      "id": "p19",
+      "pdf_page": 22,
+      "font": 14,
+      "bottom": 101.9
+    },
+    {
+      "id": "p20",
+      "pdf_page": 23,
+      "font": 14,
+      "bottom": 85.0
+    },
+    {
+      "id": "p21",
+      "pdf_page": 24,
+      "font": 13.5,
+      "bottom": 95.2
+    },
+    {
+      "id": "p22",
+      "pdf_page": 25,
+      "font": 14,
+      "bottom": 127.0
+    },
+    {
+      "id": "p23",
+      "pdf_page": 26,
+      "font": 14,
+      "bottom": 203.4
+    },
+    {
+      "id": "p24",
+      "pdf_page": 27,
+      "font": 13,
+      "bottom": 102.0
+    },
+    {
+      "id": "p25",
+      "pdf_page": 28,
+      "font": 14,
+      "bottom": 193.4
+    },
+    {
+      "id": "p26",
+      "pdf_page": 29,
+      "font": 14,
+      "bottom": 163.2
+    },
+    {
+      "id": "p27",
+      "pdf_page": 30,
+      "font": 13,
+      "bottom": 74.6
+    },
+    {
+      "id": "a1",
+      "pdf_page": 32,
+      "font": 14,
+      "bottom": 264.5
+    },
+    {
+      "id": "a2",
+      "pdf_page": 33,
+      "font": 14,
+      "bottom": 156.1
+    },
+    {
+      "id": "a3",
+      "pdf_page": 34,
+      "font": 14,
+      "bottom": 179.2
+    },
+    {
+      "id": "a4",
+      "pdf_page": 35,
+      "font": 14,
+      "bottom": 133.0
+    },
+    {
+      "id": "a5",
+      "pdf_page": 36,
+      "font": 14,
+      "bottom": 93.9
+    },
+    {
+      "id": "a6",
+      "pdf_page": 37,
+      "font": 14,
+      "bottom": 125.0
+    },
+    {
+      "id": "a7",
+      "pdf_page": 38,
+      "font": 14,
+      "bottom": 168.5
+    },
+    {
+      "id": "a8",
+      "pdf_page": 39,
+      "font": 14,
+      "bottom": 209.4
+    },
+    {
+      "id": "a9",
+      "pdf_page": 40,
+      "font": 14,
+      "bottom": 121.7
+    },
+    {
+      "id": "a10",
+      "pdf_page": 41,
+      "font": 14,
+      "bottom": 155.2
+    },
+    {
+      "id": "a11",
+      "pdf_page": 42,
+      "font": 13.5,
+      "bottom": 79.2
+    },
+    {
+      "id": "a12",
+      "pdf_page": 43,
+      "font": 14,
+      "bottom": 117.0
+    },
+    {
+      "id": "a13",
+      "pdf_page": 44,
+      "font": 14,
+      "bottom": 117.0
+    },
+    {
+      "id": "a14",
+      "pdf_page": 45,
+      "font": 14,
+      "bottom": 154.3
+    },
+    {
+      "id": "a15",
+      "pdf_page": 46,
+      "font": 13.5,
+      "bottom": 87.2
+    },
+    {
+      "id": "a16",
+      "pdf_page": 47,
+      "font": 14,
+      "bottom": 220.3
+    },
+    {
+      "id": "a17",
+      "pdf_page": 48,
+      "font": 14,
+      "bottom": 179.2
+    },
+    {
+      "id": "a18",
+      "pdf_page": 49,
+      "font": 14,
+      "bottom": 157.0
+    },
+    {
+      "id": "a19",
+      "pdf_page": 50,
+      "font": 14,
+      "bottom": 164.1
+    },
+    {
+      "id": "a20",
+      "pdf_page": 51,
+      "font": 13.5,
+      "bottom": 101.5
+    },
+    {
+      "id": "a21",
+      "pdf_page": 52,
+      "font": 14,
+      "bottom": 101.9
+    },
+    {
+      "id": "a22",
+      "pdf_page": 53,
+      "font": 14,
+      "bottom": 71.9
+    },
+    {
+      "id": "a23",
+      "pdf_page": 54,
+      "font": 14,
+      "bottom": 156.3
+    },
+    {
+      "id": "a24",
+      "pdf_page": 55,
+      "font": 14,
+      "bottom": 146.3
+    },
+    {
+      "id": "a25",
+      "pdf_page": 56,
+      "font": 14,
+      "bottom": 129.4
+    },
+    {
+      "id": "a26",
+      "pdf_page": 57,
+      "font": 14,
+      "bottom": 170.3
+    },
+    {
+      "id": "a27",
+      "pdf_page": 58,
+      "font": 13.5,
+      "bottom": 65.2
+    }
+  ],
+  "outputs": {
+    "조선토지조사사업보고서추록_일한대역.html": 25198829,
+    "조선토지조사사업보고서추록_일한대역.epub": 33815217,
+    "조선토지조사사업보고서추록_일한대역.pdf": 23775258
+  },
+  "browser_validation": {
+    "html_units": 54,
+    "epub_pages": 58,
+    "paired_navigation": true,
+    "search_hits": 4,
+    "preferences": true,
+    "errors": [],
+    "overflow": []
+  },
+  "pdf_toc_links": 81,
+  "rendered_pdf_pages": 58
+}

@@ -1,0 +1,354 @@
+{
+  "html_units": [
+    {
+      "title": "총설",
+      "label": "인쇄면 1쪽",
+      "img": 1240,
+      "text": 809,
+      "left": 29,
+      "right": 750
+    },
+    {
+      "title": "역둔토분필조사 · 개설",
+      "label": "인쇄면 2쪽",
+      "img": 1268,
+      "text": 630,
+      "left": 29,
+      "right": 750
+    },
+    {
+      "title": "조사의 준비 · 지번과 면적",
+      "label": "인쇄면 3쪽",
+      "img": 1240,
+      "text": 515,
+      "left": 29,
+      "right": 750
+    },
+    {
+      "title": "소도 작성",
+      "label": "인쇄면 4쪽",
+      "img": 1268,
+      "text": 547,
+      "left": 29,
+      "right": 750
+    },
+    {
+      "title": "신고서의 취합",
+      "label": "인쇄면 5쪽",
+      "img": 1240,
+      "text": 609,
+      "left": 29,
+      "right": 750
+    },
+    {
+      "title": "신고서 기재 원칙",
+      "label": "인쇄면 6쪽",
+      "img": 1268,
+      "text": 755,
+      "left": 29,
+      "right": 750
+    },
+    {
+      "title": "역둔토소작신고서",
+      "label": "인쇄면 7쪽",
+      "img": 1240,
+      "text": 542,
+      "left": 29,
+      "right": 750
+    },
+    {
+      "title": "조사의 방법 · 요항",
+      "label": "인쇄면 8쪽",
+      "img": 1268,
+      "text": 633,
+      "left": 29,
+      "right": 750
+    },
+    {
+      "title": "소작인의 조사",
+      "label": "인쇄면 9쪽",
+      "img": 1240,
+      "text": 732,
+      "left": 29,
+      "right": 750
+    },
+    {
+      "title": "강계와 지목의 조사",
+      "label": "인쇄면 10쪽",
+      "img": 1268,
+      "text": 659,
+      "left": 29,
+      "right": 750
+    },
+    {
+      "title": "조사의 요항 · 소작인 조사",
+      "label": "NDL 11면 · 인쇄면 8~9쪽",
+      "img": 2534,
+      "text": 1508,
+      "left": 29,
+      "right": 750
+    },
+    {
+      "title": "강계와 지목의 조사",
+      "label": "NDL 12면 · 인쇄면 10~11쪽",
+      "img": 2534,
+      "text": 957,
+      "left": 29,
+      "right": 750
+    },
+    {
+      "title": "강계·지목 · 지번 결정",
+      "label": "NDL 13면 · 인쇄면 12~13쪽",
+      "img": 2534,
+      "text": 1189,
+      "left": 29,
+      "right": 750
+    },
+    {
+      "title": "등급 조사 · 신고서류 정리",
+      "label": "NDL 14면 · 인쇄면 14~15쪽",
+      "img": 2534,
+      "text": 837,
+      "left": 29,
+      "right": 750
+    },
+    {
+      "title": "측량의 방법 · 소도 수정",
+      "label": "NDL 15면 · 인쇄면 16~17쪽",
+      "img": 2534,
+      "text": 836,
+      "left": 29,
+      "right": 750
+    },
+    {
+      "title": "측량 · 지도와 일람도",
+      "label": "NDL 16면 · 인쇄면 18~19쪽",
+      "img": 2534,
+      "text": 329,
+      "left": 29,
+      "right": 750
+    },
+    {
+      "title": "지도 작성 · 도서 검사",
+      "label": "NDL 17면 · 인쇄면 20~21쪽",
+      "img": 2534,
+      "text": 639,
+      "left": 29,
+      "right": 750
+    },
+    {
+      "title": "도서 검사의 세부 항목",
+      "label": "NDL 18면 · 인쇄면 22~23쪽",
+      "img": 2534,
+      "text": 595,
+      "left": 29,
+      "right": 750
+    },
+    {
+      "title": "지적(면적)의 산정",
+      "label": "NDL 19면 · 인쇄면 24~25쪽",
+      "img": 2534,
+      "text": 597,
+      "left": 29,
+      "right": 750
+    },
+    {
+      "title": "부서(장부·서류)의 조제",
+      "label": "NDL 20면 · 인쇄면 26~27쪽",
+      "img": 2534,
+      "text": 530,
+      "left": 29,
+      "right": 750
+    }
+  ],
+  "search_hits": 4,
+  "zoomed": true,
+  "bookmark_and_position": true,
+  "errors": [],
+  "epub": [
+    {
+      "name": "cover.xhtml",
+      "bodyBottom": null,
+      "footerTop": null,
+      "brokenImages": false,
+      "height": 840,
+      "lastBottom": 566.90625
+    },
+    {
+      "name": "nav.xhtml",
+      "bodyBottom": null,
+      "footerTop": null,
+      "brokenImages": false,
+      "height": 840,
+      "lastBottom": 710.59375
+    },
+    {
+      "name": "note.xhtml",
+      "bodyBottom": null,
+      "footerTop": null,
+      "brokenImages": false,
+      "height": 840,
+      "lastBottom": 538
+    },
+    {
+      "name": "p1.xhtml",
+      "bodyBottom": 526.703125,
+      "footerTop": 794,
+      "brokenImages": false,
+      "height": 840,
+      "lastBottom": 526.703125
+    },
+    {
+      "name": "p10.xhtml",
+      "bodyBottom": 463.5625,
+      "footerTop": 794,
+      "brokenImages": false,
+      "height": 840,
+      "lastBottom": 463.5625
+    },
+    {
+      "name": "p2.xhtml",
+      "bodyBottom": 442.515625,
+      "footerTop": 794,
+      "brokenImages": false,
+      "height": 840,
+      "lastBottom": 442.515625
+    },
+    {
+      "name": "p3.xhtml",
+      "bodyBottom": 421.46875,
+      "footerTop": 794,
+      "brokenImages": false,
+      "height": 840,
+      "lastBottom": 421.46875
+    },
+    {
+      "name": "p4.xhtml",
+      "bodyBottom": 421.46875,
+      "footerTop": 794,
+      "brokenImages": false,
+      "height": 840,
+      "lastBottom": 421.46875
+    },
+    {
+      "name": "p5.xhtml",
+      "bodyBottom": 442.515625,
+      "footerTop": 794,
+      "brokenImages": false,
+      "height": 840,
+      "lastBottom": 442.515625
+    },
+    {
+      "name": "p6.xhtml",
+      "bodyBottom": 442.515625,
+      "footerTop": 794,
+      "brokenImages": false,
+      "height": 840,
+      "lastBottom": 442.515625
+    },
+    {
+      "name": "p7.xhtml",
+      "bodyBottom": 421.46875,
+      "footerTop": 794,
+      "brokenImages": false,
+      "height": 840,
+      "lastBottom": 421.46875
+    },
+    {
+      "name": "p8.xhtml",
+      "bodyBottom": 442.515625,
+      "footerTop": 794,
+      "brokenImages": false,
+      "height": 840,
+      "lastBottom": 442.515625
+    },
+    {
+      "name": "p9.xhtml",
+      "bodyBottom": 484.609375,
+      "footerTop": 794,
+      "brokenImages": false,
+      "height": 840,
+      "lastBottom": 484.609375
+    },
+    {
+      "name": "s11.xhtml",
+      "bodyBottom": 752.40625,
+      "footerTop": 794,
+      "brokenImages": false,
+      "height": 840,
+      "lastBottom": 752.40625
+    },
+    {
+      "name": "s12.xhtml",
+      "bodyBottom": 688.984375,
+      "footerTop": 794,
+      "brokenImages": false,
+      "height": 840,
+      "lastBottom": 688.984375
+    },
+    {
+      "name": "s13.xhtml",
+      "bodyBottom": 752.59375,
+      "footerTop": 794,
+      "brokenImages": false,
+      "height": 840,
+      "lastBottom": 752.59375
+    },
+    {
+      "name": "s14.xhtml",
+      "bodyBottom": 664.890625,
+      "footerTop": 794,
+      "brokenImages": false,
+      "height": 840,
+      "lastBottom": 664.890625
+    },
+    {
+      "name": "s15.xhtml",
+      "bodyBottom": 673.890625,
+      "footerTop": 794,
+      "brokenImages": false,
+      "height": 840,
+      "lastBottom": 673.890625
+    },
+    {
+      "name": "s16.xhtml",
+      "bodyBottom": 374.421875,
+      "footerTop": 794,
+      "brokenImages": false,
+      "height": 840,
+      "lastBottom": 374.421875
+    },
+    {
+      "name": "s17.xhtml",
+      "bodyBottom": 506.65625,
+      "footerTop": 794,
+      "brokenImages": false,
+      "height": 840,
+      "lastBottom": 506.65625
+    },
+    {
+      "name": "s18.xhtml",
+      "bodyBottom": 485.609375,
+      "footerTop": 794,
+      "brokenImages": false,
+      "height": 840,
+      "lastBottom": 485.609375
+    },
+    {
+      "name": "s19.xhtml",
+      "bodyBottom": 506.65625,
+      "footerTop": 794,
+      "brokenImages": false,
+      "height": 840,
+      "lastBottom": 506.65625
+    },
+    {
+      "name": "s20.xhtml",
+      "bodyBottom": 434.515625,
+      "footerTop": 794,
+      "brokenImages": false,
+      "height": 840,
+      "lastBottom": 434.515625
+    }
+  ]
+}
